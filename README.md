@@ -14,3 +14,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+I'm a student focusing on DevOps
+- 💻 I'm a self taught programmer
