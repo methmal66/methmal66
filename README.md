@@ -7,5 +7,5 @@
 <div id="badges" align="center">
   <a href="https://twitter.com/sanuja_methmal"><img alt="Twitter badge" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100091302773227"><img alt="Facebook badge" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-
+   <a href="https://www.linkedin.com/in/sanuja-methmal"><img alt="LinkedIn badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
