@@ -18,5 +18,10 @@
 ---
 
 ### :man_technologist: About Me :
-I'm a student focusing on DevOps
-- 💻 I'm a self taught programmer
+I'm a student focusing on devops
+- 🐧 Styding Linux system administration
+- 💻 Teaching myself fullstack development
+- 🚀 Fast and motivated learner with infinite curiosity 
+- 🧠 Problem solving is my lifestyle
+- ☎️ Reach me using Linkedin or Facebook
+
