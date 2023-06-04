@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <h1>This profile is under development</h1>
     <h1>Hey there! It's me, Methmal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -24,4 +23,19 @@ I'm a student focusing on devops
 - 🚀 Fast and motivated learner with infinite curiosity 
 - 🧠 Problem solving is my lifestyle
 - ☎️ Reach me using Linkedin or Facebook
+
+### Tools and technologies I'm familier with
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="60" width="60"/>&nbsp;
+
+
+
 
